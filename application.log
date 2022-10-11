@@ -1,0 +1,62 @@
+2022-10-09 12:24:25,045  INFO [main] Maven_SauceDemoProject:44 - browser is opened
+2022-10-09 12:24:25,178  INFO [main] Maven_SauceDemoProject:47 - browser is maximized
+2022-10-09 12:24:25,926  INFO [main] Maven_SauceDemoProject:53 - SauceDemo URL is opened
+2022-10-09 12:24:26,089  INFO [main] Maven_SauceDemoProject:60 - username is entered
+2022-10-09 12:24:26,187  INFO [main] Maven_SauceDemoProject:63 - password is enetred
+2022-10-09 12:24:26,299  INFO [main] Maven_SauceDemoProject:66 - Click on login button
+2022-10-09 12:24:26,571  INFO [main] Maven_SauceDemoProject:25 - apply the validation
+2022-10-09 12:24:26,819  INFO [main] Maven_SauceDemoProject:73 - browser is closed
+2022-10-09 12:24:26,819  INFO [main] Maven_SauceDemoProject:74 - end of program
+2022-10-09 12:24:27,626  INFO [main] Maven_SauceDemoProject:44 - browser is opened
+2022-10-09 12:24:27,753  INFO [main] Maven_SauceDemoProject:47 - browser is maximized
+2022-10-09 12:24:28,200  INFO [main] Maven_SauceDemoProject:53 - SauceDemo URL is opened
+2022-10-09 12:24:28,324  INFO [main] Maven_SauceDemoProject:60 - username is entered
+2022-10-09 12:24:28,423  INFO [main] Maven_SauceDemoProject:63 - password is enetred
+2022-10-09 12:24:28,531  INFO [main] Maven_SauceDemoProject:66 - Click on login button
+2022-10-09 12:24:28,605  INFO [main] Maven_SauceDemoProject:26 - clicked on menu button
+2022-10-09 12:24:28,733  INFO [main] Maven_SauceDemoProject:29 - clicked on logout button
+2022-10-09 12:24:28,931  INFO [main] Maven_SauceDemoProject:34 - apply the validation
+2022-10-09 12:24:29,133  INFO [main] Maven_SauceDemoProject:73 - browser is closed
+2022-10-09 12:24:29,133  INFO [main] Maven_SauceDemoProject:74 - end of program
+2022-10-09 12:24:29,960  INFO [main] Maven_SauceDemoProject:44 - browser is opened
+2022-10-09 12:24:30,091  INFO [main] Maven_SauceDemoProject:47 - browser is maximized
+2022-10-09 12:24:30,713  INFO [main] Maven_SauceDemoProject:53 - SauceDemo URL is opened
+2022-10-09 12:24:30,829  INFO [main] Maven_SauceDemoProject:60 - username is entered
+2022-10-09 12:24:30,935  INFO [main] Maven_SauceDemoProject:63 - password is enetred
+2022-10-09 12:24:31,073  INFO [main] Maven_SauceDemoProject:66 - Click on login button
+2022-10-09 12:24:31,148  INFO [main] Maven_SauceDemoProject:26 - Bag product will get selected
+2022-10-09 12:24:31,426  INFO [main] Maven_SauceDemoProject:34 - actual product->1
+2022-10-09 12:24:31,426  INFO [main] Maven_SauceDemoProject:36 - apply validation
+2022-10-09 12:24:31,603  INFO [main] Maven_SauceDemoProject:73 - browser is closed
+2022-10-09 12:24:31,604  INFO [main] Maven_SauceDemoProject:74 - end of program
+2022-10-09 20:27:06,666  INFO [main] Maven_SauceDemoProject:44 - browser is opened
+2022-10-09 20:27:06,805  INFO [main] Maven_SauceDemoProject:47 - browser is maximized
+2022-10-09 20:27:07,310  INFO [main] Maven_SauceDemoProject:53 - SauceDemo URL is opened
+2022-10-09 20:27:07,433  INFO [main] Maven_SauceDemoProject:60 - username is entered
+2022-10-09 20:27:07,507  INFO [main] Maven_SauceDemoProject:63 - password is enetred
+2022-10-09 20:27:07,598  INFO [main] Maven_SauceDemoProject:66 - Click on login button
+2022-10-09 20:27:07,800  INFO [main] Maven_SauceDemoProject:25 - apply the validation
+2022-10-09 20:27:07,950  INFO [main] Maven_SauceDemoProject:73 - browser is closed
+2022-10-09 20:27:07,950  INFO [main] Maven_SauceDemoProject:74 - end of program
+2022-10-09 20:27:08,582  INFO [main] Maven_SauceDemoProject:44 - browser is opened
+2022-10-09 20:27:08,697  INFO [main] Maven_SauceDemoProject:47 - browser is maximized
+2022-10-09 20:27:09,112  INFO [main] Maven_SauceDemoProject:53 - SauceDemo URL is opened
+2022-10-09 20:27:09,186  INFO [main] Maven_SauceDemoProject:60 - username is entered
+2022-10-09 20:27:09,248  INFO [main] Maven_SauceDemoProject:63 - password is enetred
+2022-10-09 20:27:09,335  INFO [main] Maven_SauceDemoProject:66 - Click on login button
+2022-10-09 20:27:09,381  INFO [main] Maven_SauceDemoProject:26 - clicked on menu button
+2022-10-09 20:27:09,498  INFO [main] Maven_SauceDemoProject:29 - clicked on logout button
+2022-10-09 20:27:09,681  INFO [main] Maven_SauceDemoProject:34 - apply the validation
+2022-10-09 20:27:09,816  INFO [main] Maven_SauceDemoProject:73 - browser is closed
+2022-10-09 20:27:09,816  INFO [main] Maven_SauceDemoProject:74 - end of program
+2022-10-09 20:27:10,461  INFO [main] Maven_SauceDemoProject:44 - browser is opened
+2022-10-09 20:27:10,588  INFO [main] Maven_SauceDemoProject:47 - browser is maximized
+2022-10-09 20:27:11,028  INFO [main] Maven_SauceDemoProject:53 - SauceDemo URL is opened
+2022-10-09 20:27:11,108  INFO [main] Maven_SauceDemoProject:60 - username is entered
+2022-10-09 20:27:11,170  INFO [main] Maven_SauceDemoProject:63 - password is enetred
+2022-10-09 20:27:11,257  INFO [main] Maven_SauceDemoProject:66 - Click on login button
+2022-10-09 20:27:11,300  INFO [main] Maven_SauceDemoProject:26 - Bag product will get selected
+2022-10-09 20:27:11,484  INFO [main] Maven_SauceDemoProject:34 - actual product->1
+2022-10-09 20:27:11,485  INFO [main] Maven_SauceDemoProject:36 - apply validation
+2022-10-09 20:27:11,614  INFO [main] Maven_SauceDemoProject:73 - browser is closed
+2022-10-09 20:27:11,614  INFO [main] Maven_SauceDemoProject:74 - end of program

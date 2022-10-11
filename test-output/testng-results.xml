@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-09T20:27:04 IST" name="Suite" finished-at="2022-10-09T20:27:11 IST" duration-ms="6659">
+    <groups>
+    </groups>
+    <test started-at="2022-10-09T20:27:04 IST" name="Test" finished-at="2022-10-09T20:27:11 IST" duration-ms="6659">
+      <class name="com.SauceDemo.TestClass.TC03_BagProductFunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.SauceDemo.TestClass.TC03_BagProductFunctionality@3f6f6701]" started-at="2022-10-09T20:27:09 IST" name="setUp" finished-at="2022-10-09T20:27:11 IST" duration-ms="1441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="BagProductFunctionality()[pri:0, instance:com.SauceDemo.TestClass.TC03_BagProductFunctionality@3f6f6701]" started-at="2022-10-09T20:27:11 IST" name="BagProductFunctionality" finished-at="2022-10-09T20:27:11 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BagProductFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SauceDemo.TestClass.TC03_BagProductFunctionality@3f6f6701]" started-at="2022-10-09T20:27:11 IST" name="teardown" finished-at="2022-10-09T20:27:11 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SauceDemo.TestClass.TC03_BagProductFunctionality -->
+      <class name="com.SauceDemo.TestClass.TC02_LogOutFuntionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.SauceDemo.TestClass.TC02_LogOutFuntionality@242b836]" started-at="2022-10-09T20:27:07 IST" name="setUp" finished-at="2022-10-09T20:27:09 IST" duration-ms="1382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogOutFuntionality()[pri:0, instance:com.SauceDemo.TestClass.TC02_LogOutFuntionality@242b836]" started-at="2022-10-09T20:27:09 IST" name="LogOutFuntionality" finished-at="2022-10-09T20:27:09 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutFuntionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SauceDemo.TestClass.TC02_LogOutFuntionality@242b836]" started-at="2022-10-09T20:27:09 IST" name="teardown" finished-at="2022-10-09T20:27:09 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SauceDemo.TestClass.TC02_LogOutFuntionality -->
+      <class name="com.SauceDemo.TestClass.TC01_LoginFunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.SauceDemo.TestClass.TC01_LoginFunctionality@434a63ab]" started-at="2022-10-09T20:27:04 IST" name="setUp" finished-at="2022-10-09T20:27:07 IST" duration-ms="2615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="method1()[pri:0, instance:com.SauceDemo.TestClass.TC01_LoginFunctionality@434a63ab]" started-at="2022-10-09T20:27:07 IST" name="method1" finished-at="2022-10-09T20:27:07 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SauceDemo.TestClass.TC01_LoginFunctionality@434a63ab]" started-at="2022-10-09T20:27:07 IST" name="teardown" finished-at="2022-10-09T20:27:07 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SauceDemo.TestClass.TC01_LoginFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
